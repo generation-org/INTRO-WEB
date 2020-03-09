@@ -16,5 +16,9 @@ Create a blog post about the city you are from. It should have a title, some tex
 
 ### Exercise #4
 
+Create an ad about a product you like.
+
+### Exercise #5
+
 Create a personal page about yourself.
 
