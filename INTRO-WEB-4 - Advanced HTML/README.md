@@ -10,7 +10,7 @@
 
 ### Exercise #2
 
-Create a page called `My Store`. It should have a table with 3 columns (Item, Name, and Price). See the data below and build your table.
+Create a page called `My Store`. It should have a table with 3 columns (Item, Name, and Price). See the data below and build your table:
 ```
 	Oranges	$1 ea.
 	Bananas	$0.75/lb
@@ -43,4 +43,4 @@ Relationship
 
 ### Additional Questions
 
-1. Add on to Exercise #2 and create a column that is called Photo. The column should have a photo of the item in that row.
+1. Add onto Exercise #2 and create a column that is called Photo. The column should have a photo of the item in that row.
