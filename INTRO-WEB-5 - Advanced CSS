@@ -33,7 +33,7 @@ Copy the following code and save it on file as index.html:
 text color: #72353D  background color: #EAD2D5
 
 
-4. Create two new <div> tags that have a height of 200 pixels and occupy 50% of the page as follows and have blue and red color:
+4. Create two new <div> tags that have a height of 200 pixels and occupy 50% of the page and have blue and red color:
 
 
 5. Change all the fonts to Verdana and font size to 1.5em
