@@ -2,7 +2,7 @@
 
 ### Exercise #1
 
-1. Open up the exercise you did in [INTRO-WEB-3 Exercise #3](https://github.com/generation-org/INTRO-WEB/tree/master/INTRO-WEB-2%20-%20Introduction%20to%20HTML#exercise-3). 
+1. Open up the exercise you did in [INTRO-WEB-2 Exercise #3](https://github.com/generation-org/INTRO-WEB/tree/master/INTRO-WEB-2%20-%20Introduction%20to%20HTML#exercise-3). 
 
 2. Update the styling with CSS.
 
@@ -29,7 +29,7 @@ Ask for a few more things: `first name, last name, address, city, country`. Arra
 
 ### Exercise #4
 
-1. Open up the exercise you did in [INTRO-WEB-3 Exercise #5](https://github.com/generation-org/INTRO-WEB/tree/master/INTRO-WEB-2%20-%20Introduction%20to%20HTML#exercise-5).
+1. Open up the exercise you did in [INTRO-WEB-2 Exercise #5](https://github.com/generation-org/INTRO-WEB/tree/master/INTRO-WEB-2%20-%20Introduction%20to%20HTML#exercise-5).
 
 2. At the bottom of the page, add in a table about your family members. The columns should be:
 ```
