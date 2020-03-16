@@ -14,14 +14,14 @@ Take the blog post you have been building on [Introduction to Bootstrap Exercise
 
 Add in the ability to use Javascript on the page and create a new `.js` file.
 
-In two sections of your blog, add in a button. When the buttons are clicked, an alert should show. In the alert, add in text that is relevant to the section where your button is. (ie. if it's a section about your hometown, a fun fact of the place).
+In two sections of your blog, add in a button. When the buttons are clicked, an alert should show. In the alert, add in text that is relevant to the section where your button is located (i.e. if it's a section about your hometown, add a fun fact about where you're from).
 
 #### Exercise #3
 
 Go to a site from this [list](https://webdesignerwall.com/trends/30-truly-interactive-websites-built-css-javascript).
 Inpect the CSS and HTML using the browser console. See if you can change certain styling elements using the browser console.
 
-Once you are done looking at the page, pick three key elements of the page (ie. header, content body, and footer) and recreate the page on your own.
+When you are done looking at the page, pick three key elements of the page (ie. header, content body, and footer) and recreate the page on your own.
 
 ### Additional
 Help classmates if you have completed all the exercises.
