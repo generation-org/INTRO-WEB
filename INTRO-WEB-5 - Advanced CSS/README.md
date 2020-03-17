@@ -3,25 +3,25 @@
 ## Practice
 
 Copy the following code and save it on file as index.html:
+  ```html
+    <!doctype html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="styles.css">
+        <style>
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="styles.css">
-    <style>
-     
-    </style>
-  </head>
-  <body>
-    <div id="main">
-        <h3>Let's style this website!</h3>
-    </div>
-  
-  </body>
-</html>
+        </style>
+      </head>
+      <body>
+        <div id="main">
+            <h3>Let's style this website!</h3>
+        </div>
 
+      </body>
+    </html>
+  ```
 1. Modify the styles of all <h3> tags to have color blue and text alignment centered.
 
 
