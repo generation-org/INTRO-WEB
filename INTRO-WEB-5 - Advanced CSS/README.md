@@ -23,10 +23,10 @@
     </html>
   ```
  
-2. Modify the styles of all <h3> tags to have color blue and text alignment centered.
+2. Modify the styles of all \<h3\> tags to have color blue and text alignment centered.
 
 
-3. Modify the <div> with id main so to have background color whitesmoke, content align centered, and a margin and padding of 30 pixels.
+3. Modify the \<div\> with id main so to have background color whitesmoke, content align centered, and a margin and padding of 30 pixels.
 
 
 4. Create a new css class called alert that makes a container have the following look:
@@ -39,7 +39,7 @@
 
 6. Change all the fonts to Verdana and font size to 1.5em
 
-7. Modify the <div> tags created on 5] to have:
+7. Modify the \<div\> tags created on 5] to have:
   * a padding of 20px 
   * a width of 40%
   * rounded borders of 50px
