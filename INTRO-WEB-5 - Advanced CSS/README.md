@@ -35,7 +35,7 @@
     background color: #EAD2D5;
   ```
 
-5. Create two new <div> tags that have a height of 200 pixels and occupy 50% of the page and have blue and red color:
+5. Create two new \<div\> tags that have a height of 200 pixels and occupy 50% of the page and have blue and red color:
 
 6. Change all the fonts to Verdana and font size to 1.5em
 
