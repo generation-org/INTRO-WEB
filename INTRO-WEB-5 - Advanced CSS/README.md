@@ -40,11 +40,11 @@
 6. Change all the fonts to Verdana and font size to 1.5em
 
 7. Modify the \<div\> tags created on 5] to have:
-  * a padding of 20px 
-  * a width of 40%
-  * rounded borders of 50px
-  * a rounded black border of 1px
-  * it rotates 90 degrees
+    * a padding of 20px 
+    * a width of 40%
+    * rounded borders of 50px
+    * a rounded black border of 1px
+    * it rotates 90 degrees
 
 8. Add a CSS animation of 5 seconds so the red rectangle becomes blue and the blue one becomes red.
 
