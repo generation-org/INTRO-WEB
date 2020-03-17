@@ -31,16 +31,15 @@
 
 4. Create a new css class called alert that makes a container have the following look:
   ```css
-  text color: #72353D;  
+    text color: #72353D;  
     background color: #EAD2D5;
   ```
 
 5. Create two new <div> tags that have a height of 200 pixels and occupy 50% of the page and have blue and red color:
 
-
 6. Change all the fonts to Verdana and font size to 1.5em
 
-7. Modify the <div> tags created on 5) to have:
+7. Modify the <div> tags created on 5] to have:
   * a padding of 20px 
   * a width of 40%
   * rounded borders of 50px
