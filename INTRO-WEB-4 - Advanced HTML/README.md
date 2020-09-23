@@ -4,7 +4,7 @@
 
 1. Open up the exercise you did in [INTRO-WEB-2 Exercise #3](https://github.com/generation-org/INTRO-WEB/tree/master/INTRO-WEB-2%20-%20Introduction%20to%20HTML#exercise-3). 
 
-2. Update the styling with CSS.
+2. If you have learned CSS at this point, update the styling with CSS.
 
 3. Create a legend at the top of the page. The legend should link to the different sections of your blog.
 
